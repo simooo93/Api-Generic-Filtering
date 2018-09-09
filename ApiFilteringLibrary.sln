@@ -7,10 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiFilteringLibrary", "ApiF
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{38C74DB9-FB37-4D7C-8400-35406FE4D5A8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{78AFC85A-BEB4-46EF-9CF5-E287C3043533}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiFiltering.Tests", "ApiFiltering.Tests\ApiFiltering.Tests.csproj", "{17A1A185-4EEE-4925-826A-E06CF3DEB0DB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
